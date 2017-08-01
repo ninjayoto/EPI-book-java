@@ -9,6 +9,25 @@ public class SinglyLinkedList {
         this.root = null ;
     }
 
+    public void push(Object payload) {
+        this.addLink(payload);
+    }
+    public Object pop() {
+        Link curr = this.root ;
+        Link prev = null ;
+        if (curr==null) return null ;
+        while (curr.getNext() != null) {
+            prev = curr ;
+            curr = curr.getNext() ;
+        }
+        if (prev == null) {
+            this.root = null ;
+        } else {
+            prev.setNext(null);
+        }
+        return curr.payload ;
+    }
+
     public void addLink(Object payload) {
         Link curr = this.root ;
         if (curr == null) {
@@ -23,6 +42,9 @@ public class SinglyLinkedList {
 
     public Link getRoot() {
         return this.root ;
+    }
+    public void setRoot(Link a) {
+        this.root = a ;
     }
     public Object[] toArray() {
         int len = 0 ;
