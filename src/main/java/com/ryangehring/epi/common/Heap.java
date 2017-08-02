@@ -32,6 +32,7 @@ public class Heap {
         data[destIdx] = x ;
         bubbleUp(destIdx) ;
         filledSize ++ ;
+
     }
 
     public Comparable pop() {
@@ -49,7 +50,7 @@ public class Heap {
         if (k==0) return ;
         int parentIdx = (k-1)/2 ;
         Comparable temp = null ;
-        if ( (data[parentIdx]==null )||  (data[parentIdx].compareTo(data[k]) < 0 )) {
+        if ( (data[parentIdx]==null )||  (data[parentIdx].compareTo(data[k]) > 0 )) {
             temp = data[parentIdx] ;
             data[parentIdx] = data[k] ;
             data[k] = temp ;
@@ -80,7 +81,7 @@ public class Heap {
             return;
         }
 
-        if (data[leftIdx].compareTo( data[rightIdx] ) > 0) {
+        if (data[leftIdx].compareTo( data[rightIdx] ) < 0) {
             temp = data[k] ;
             data[k] = data[leftIdx] ;
             data[leftIdx] = temp ;
