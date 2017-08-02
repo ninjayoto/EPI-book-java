@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="119f795c-0107-4014-8e12-497c742046c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c14/P01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c14/P02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c15/P01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c15/P02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c14/P01Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c14/P02Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c15/P01Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c15/P02Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c16/P01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c16/P01Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EPI-book-java.iws" />
@@ -32,18 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P01Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c14/P01Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="P02.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c14/P02.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,14 +59,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P02.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P02.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c15/P02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            <state relative-caret-position="358">
+              <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#733#750#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c16/P01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P01Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c16/P01Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+              <folding>
+                <element signature="e#368#377#0" expanded="true" />
+                <element signature="e#417#426#0" expanded="true" />
+                <element signature="e#466#475#0" expanded="true" />
+                <element signature="e#529#545#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,16 +142,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P02Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c14/P02Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -169,8 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c05/P01.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c05/P02Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c05/P02.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c06/P01Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c06/P01.java" />
@@ -220,6 +217,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c15/P01Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c15/P02Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c15/P02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c16/P01.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c16/P01Test.java" />
       </list>
     </option>
   </component>
@@ -337,10 +336,6 @@
               <option name="myItemId" value="solutions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="c15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -369,6 +364,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="c15" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -685,6 +684,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPI-book-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPI-book-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="c16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1106,11 +1139,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ryangehring.epi.solutions.c16" />
       <recent name="com.ryangehring.epi.solutions.c15" />
       <recent name="com.ryangehring.epi.solutions.c14" />
       <recent name="com.ryangehring.epi.solutions.c13" />
       <recent name="com.ryangehring.epi.solutions.c12" />
-      <recent name="com.ryangehring.epi.solutions.c11" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.ryangehring.epi.solutions.c13" />
@@ -1119,7 +1152,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.P02Test">
+  <component name="RunManager" selected="JUnit.P01Test.printTowersOfHanoi">
     <configuration default="false" name="P01Test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1132,32 +1165,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.ryangehring.epi.solutions.c14" />
       <option name="MAIN_CLASS_NAME" value="com.ryangehring.epi.solutions.c14.P01Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="P02Test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.ryangehring.epi.solutions.c13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="epi-solutions" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ryangehring.epi.solutions.c13" />
-      <option name="MAIN_CLASS_NAME" value="com.ryangehring.epi.solutions.c13.P02Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1238,6 +1245,32 @@
       <option name="MAIN_CLASS_NAME" value="com.ryangehring.epi.solutions.c15.P02Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="P01Test.printTowersOfHanoi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ryangehring.epi.solutions.c16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="epi-solutions" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ryangehring.epi.solutions.c16" />
+      <option name="MAIN_CLASS_NAME" value="com.ryangehring.epi.solutions.c16.P01Test" />
+      <option name="METHOD_NAME" value="printTowersOfHanoi" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -1630,18 +1663,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.P01Test (2)" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.P02Test (2)" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.P02Test (3)" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.P01Test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.P02Test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.P02Test (3)" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.P01Test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.P02Test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.P01Test.printTowersOfHanoi" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.P02Test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.P01Test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.P02Test (3)" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.P01Test (2)" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.P02Test (2)" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.P01Test.printTowersOfHanoi" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.P02Test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.P01Test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.P02Test (3)" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.P01Test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -1665,23 +1698,23 @@
     <history-entry file="P01Test - 2017.08.02 at 01h 18m 14s.xml">
       <configuration name="P01Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P01Test_(2) - 2017.08.01 at 22h 43m 40s.xml">
-      <configuration name="P01Test (2)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="P01Test_(2) - 2017.08.01 at 23h 53m 53s.xml">
       <configuration name="P01Test (2)" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P01Test_(2) - 2017.08.01 at 23h 54m 23s.xml">
       <configuration name="P01Test (2)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="P01Test_printTowersOfHanoi - 2017.08.02 at 12h 29m 35s.xml">
+      <configuration name="P01Test.printTowersOfHanoi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P01Test_printTowersOfHanoi - 2017.08.02 at 12h 31m 56s.xml">
+      <configuration name="P01Test.printTowersOfHanoi" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="P02Test - 2017.08.02 at 01h 32m 07s.xml">
       <configuration name="P02Test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P02Test - 2017.08.02 at 01h 33m 57s.xml">
       <configuration name="P02Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P02Test_(1) - 2017.08.01 at 21h 39m 13s.xml">
-      <configuration name="P02Test (1)" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P02Test_(2) - 2017.08.01 at 22h 50m 27s.xml">
       <configuration name="P02Test (2)" configurationId="JUnit" />
@@ -1740,24 +1773,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c05/P01Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c05/P01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c05/P02Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -2106,7 +2121,7 @@
         <state relative-caret-position="270">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2146,14 +2161,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c08/P01Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="33" column="0" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c15/P01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -2173,6 +2180,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c15/P02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#733#750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c08/P01Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="0" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c15/P02Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -2181,13 +2207,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c15/P02.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryangehring/epi/solutions/c16/P01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        <state relative-caret-position="388">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#733#750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryangehring/epi/solutions/c16/P01Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+          <folding>
+            <element signature="e#368#377#0" expanded="true" />
+            <element signature="e#417#426#0" expanded="true" />
+            <element signature="e#466#475#0" expanded="true" />
+            <element signature="e#529#545#0" expanded="true" />
           </folding>
         </state>
       </provider>
