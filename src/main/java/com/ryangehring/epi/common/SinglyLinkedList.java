@@ -49,10 +49,13 @@ public class SinglyLinkedList {
     public Object[] toArray() {
         int len = 0 ;
         Link curr = this.root ;
+
+        if (curr==null) {return new Object[] {} ;}
         while (curr != null) {
             len++ ;
             curr = curr.getNext() ;
         }
+
         Object[] out = new Object[len] ;
         curr = this.root ;
         int i= 0 ;
