@@ -2,7 +2,6 @@ package com.ryangehring.epi.solutions.c09;
 
 import com.ryangehring.epi.common.SinglyLinkedList;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 /**

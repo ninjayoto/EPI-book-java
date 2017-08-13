@@ -3,8 +3,6 @@ package com.ryangehring.epi.solutions.c08;
 import com.ryangehring.epi.common.SinglyLinkedList;
 import org.junit.Test;
 
-import java.util.Arrays;
-
 import static org.junit.Assert.*;
 
 /**

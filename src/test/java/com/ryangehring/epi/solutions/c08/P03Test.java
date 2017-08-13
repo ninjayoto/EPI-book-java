@@ -4,7 +4,6 @@ import com.ryangehring.epi.common.SinglyLinkedList;
 import org.junit.Test;
 
 import java.util.Arrays;
-import java.util.LinkedList;
 
 import static org.junit.Assert.*;
 

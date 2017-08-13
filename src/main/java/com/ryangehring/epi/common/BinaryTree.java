@@ -14,6 +14,7 @@ public class BinaryTree {
         public Object payload ;
         public Node left ;
         public Node right ;
+        public Node parent ;
         public Node(Object payload) {
             this.payload = payload ;
             this.left = null ;
